@@ -1,0 +1,12 @@
+[
+  {
+    "name":"title",
+    "type":"TextField",
+    "store":true
+  },
+  {
+    "name":"headlines",
+    "type":"TextField",
+    "store":true
+  }
+]
