@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="Gson Library">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib/Gson" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib/Gson" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="Jsoup Library">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib/Jsoup" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/lib/Jsoup" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/lib/Jsoup" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/Jsoup" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="Lucene Core 7.0.1">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/Lucene/core/lucene-core-7.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="Lucene 7.0.1 Query Parser">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/Lucene/queryparser/lucene-queryparser-7.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
